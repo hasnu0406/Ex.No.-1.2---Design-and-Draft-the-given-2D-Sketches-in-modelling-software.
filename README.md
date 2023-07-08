@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ https://mail.google.com/mail/u/0?ui=2&ik=30172afbe2&attid=0.1&permmsgid=msg-a:r18279409672170193&th=1893576a11e62973&view=att&disp=inline&realattid=f_ljtzah9b0
  
  ## RESULT
- Thus the given sketch is drafile:///C:/Users/bash_/Downloads/EXPERIMENT%201.2.pdfwn and drafted using fusion 360 tool.
+ Thus the given sketch is drawn and drafted using fusion 360 tool.
